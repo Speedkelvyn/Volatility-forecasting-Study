@@ -2,7 +2,7 @@
 
 Nineteen forecasters, about 140 real-time predictors and 26 years of out-of-sample forecasts (2000–2026) of next month's realised volatility of the US stock market, and a test of whether better forecasts make a better volatility-managed portfolio.
 
-**Read the report:** https://speedkelvyn.github.io/Speedy.github.io/projects/volatility/
+**Read the report:** https://speedkelvyn.github.io/Volatility-forecasting-Study/
 
 ## Findings
 
